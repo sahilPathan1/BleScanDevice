@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BleScanner</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="scan">Scan</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="scanresult">ScanResult</string>
+</resources>
